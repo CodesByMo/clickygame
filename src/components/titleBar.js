@@ -12,7 +12,7 @@ function TitleBar(props) {
                 <div className="row">
                     <div className="col-4">
                         <div className="gameTitle">
-                            <p><img src={Logo} className="logoImage" alt="Naruto"></img> Memory Game</p>
+                            <p><img src={Logo} className="logoImage" alt="logo"></img> Memory Game</p>
                         </div>
                     </div>
                     <div className="col-4">
